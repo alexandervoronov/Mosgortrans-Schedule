@@ -1,0 +1,32 @@
+((S'\xcc\xc5\xd2\xd0\xce &quot;\xd9\xc5\xcb\xca\xce\xc2\xd1\xca\xc0\xdf&quot;'
+p0
+S'\xcd3'
+p1
+S'&quot;\xcb\xd3\xc1\xdf\xcd\xd1\xca\xc0\xdf \xcf\xcb.&quot;'
+p2
+S'\xcf\xd2;\xd1\xc1;'
+p3
+tp4
+(lp5
+S'0:06'
+p6
+aS'0:36'
+p7
+aS'1:06'
+p8
+aS'1:36'
+p9
+aS'2:06'
+p10
+aS'2:36'
+p11
+aS'3:06'
+p12
+aS'3:36'
+p13
+aS'4:06'
+p14
+aS'4:36'
+p15
+atp16
+.
